@@ -1,0 +1,28 @@
+{
+    "clause":{
+        "exceptions1":"Running this application, you are supposed to enable the following rights: storage, phone number, and we will collect and use your following information:",
+        "exceptions2title":"Name.",
+        "exceptions2":"Your last name and first name, email address, mailing address, phone number, and other relating information.",
+        "exceptions3title":"Credentials.",
+        "exceptions3":"Passwords, password prompts, and other security information for authentication and account access.",
+        "exceptions4title":"Individual Information.",
+        "exceptions4":"Such as age, gender, country, and preferred language.",
+        "exceptions5title":"Device.",
+        "exceptions5":"Data about your device and the products you are using, including information about your hardware and software, the performance and your settings about products.",
+        "exceptions6title":"Social Account.",
+        "exceptions6":"Information about the relationships and interactions between you, others, and organizations, such as the types of engagements associated with people and organizations.",
+        "exceptions7title":"Location.",
+        "exceptions7":" location Information about your device. Locations can also be inferred based on the device's IP address or data in the account profile that indicates where the device signs in, such as the city.",
+        "exceptions8title":"Feedback and Evaluation.",
+        "exceptions8":" Information you provide to us, such as feedback, survey data, and product reviews you sent to us.",
+        "exceptions9":"We also get information from third parties. In terms of information safety, we carefully protect and keep data abide by Privacy Policy for users obtained from third parties and any other restrictions imposed by the data source. You are free to choose to provide information or not. If you choose not to share personal data, you may not be able to run the application as expected.",
+        "agree":"I agree"
+    },
+    "petSearc":{
+    	"Shopping":"Shopping",
+    	"Hotel":"Hotel",
+    	"Hospital":"Hospital",
+    	"Grooming":"Grooming",
+    	"Breeding":"Breeding"
+    }
+}

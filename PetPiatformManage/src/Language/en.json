@@ -1,0 +1,15 @@
+{
+    "user":{
+    	"projectName":"Haven't decided what to call it yet！",
+    	"projectDescribe":"Don't know what to describe！",
+        "passwordlogin":"Password Login",
+        "phonelogin":"Phone Login",
+        "getVerification":"get Verification",
+        "automaticlogin":"automatic login",
+        "forgetpassword":"forget password",
+        "login":"login",
+        "Otherloginmethods":"Other login methods",
+        "registerAccount":"Register Account",
+        "emil":"emil"
+    }
+}
